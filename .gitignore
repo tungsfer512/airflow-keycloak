@@ -1,0 +1,12 @@
+config/
+dags/
+logs/
+plugins/
+data/config/
+data/dags/
+data/logs/
+data/plugins/
+**/config/
+**/dags/
+**/logs/
+**/plugins/
